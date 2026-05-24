@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "moody-orange-popsicle",
-    "slug": "snack-370b12c4-d87c-4996-9e32-9f45274fdf7c",
+    "name": "application",
+    "slug": "application",
+    "owner": "ibrahimantarr",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a10932d4-5d96-44e7-ae51-0e4dee2dc489"
+      }
     }
   }
 }
